@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845799768591",
+    "project_id": "theatre-b9d82",
+    "storage_bucket": "theatre-b9d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845799768591:android:bfb5ea927a08f0a9ae197a",
+        "android_client_info": {
+          "package_name": "com.example.theatre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845799768591-mdfvvs0di4lkmra3ssra9sradi6f38oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theatre",
+            "certificate_hash": "a4724e1f48cde713eb339dd686f63bb94f044463"
+          }
+        },
+        {
+          "client_id": "845799768591-4j3pdkfmkd51frdgfc3onuadm42oosps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfgtMtkWltA51fBdu1SIoDtvefWLK5jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845799768591-4j3pdkfmkd51frdgfc3onuadm42oosps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
